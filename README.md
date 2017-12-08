@@ -9,6 +9,6 @@ To compile: c++ -o run.x *.cpp.
 To compile: c++ -o run.x geological_1d.cpp.
 
 
-Note: there aren't examples of data because they are to heavy (380 MB, for the geological case).\\
-We add also a video, which shows the heat distribution in the slab over 1Gy with the radioactive decay of the elements.
+Note: there aren't examples of data because they are to heavy (380 MB, for the geological case).
+We add also a video (geological.avi), which shows the heat distribution in the slab over 1Gy with the radioactive decay of the elements.
 
