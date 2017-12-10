@@ -1,7 +1,7 @@
 # Project5
 
 In these folders, it can be found the code to study the 1-2D diffusion equation and the code to consider a gelocial case of the heat equation. In particular:
-- Matlab: it contains the script used to mak al the plot shown in the paper;
+- Matlab: it contains the script used to make all the plot shown in the paper;
 - Codes:
 	- Diffusion equation: main.cpp contains the main program to choose all the boundary conditions, spatial and temporal step size and the loop to get the solution at a a give time. pde_diffusion.cpp and pde_diffusion.h is a class which constains all the main method to solve the diffusion equation in 1D and 2D. data_analysis.cpp and data_analysis.h is a class used to write to file and print to screen information.
 To compile: c++ -o run.x *.cpp.
