@@ -12,4 +12,4 @@ To compile: c++ -o run.x geological_1d.cpp.
 Note: there aren't examples of data because they are to heavy (380 MB, for the geological case).
 We add also a video (geological.avi), which shows the heat distribution in the slab over 1Gy with the radioactive decay of the elements.
 
-Authors: Federico Nardi, Davide Saccardo, Lorenzo Speri.
+This project was realized in collaboration with Federico Nardi and Lorenzo Speri at the University of Oslo (Norway).
